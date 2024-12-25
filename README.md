@@ -1,4 +1,4 @@
-Bank Marketing Subscription Prediction System
+# Bank Marketing Subscription Prediction System
 
 Project Overview -
 This project aims to predict whether a customer will subscribe to a term deposit offered by a bank through telemarketing campaigns using Machine Learning techniques.
